@@ -33,14 +33,12 @@
 | {master1-fullName} | 第一主人全名 | 可用於類似父親、母親等 |
 | {master1-id} | 第一主人ID | 可用於類似父親、母親等 |
 | {master1-call} | 第一主人的稱呼 | AI如何稱呼對方 |
+| {master1-relation} | 第一主人的關係 | AI與使用者的關係 |
 | {master2-name} | 第二主人名稱 | 可用於類似父親、母親等 |
 | {master2-fullName} | 第二主人全名 | 可用於類似父親、母親等 |
 | {master2-id} | 第二主人ID | 可用於類似父親、母親等 |
 | {master2-call} | 第二主人的稱呼 | AI如何稱呼對方 |
-| {master3-name} | 第三主人名稱 | 可用於類似父親、母親等 |
-| {master3-fullName} | 第三主人全名 | 可用於類似父親、母親等 |
-| {master3-id} | 第三主人ID | 可用於類似父親、母親等 |
-| {master3-call} | 第三主人的稱呼 | AI如何稱呼對方 |
+| {master2-relation} | 第二主人的關係 | AI與使用者的關係 |
 
 用於替換類別
 
@@ -50,6 +48,7 @@
 | {masterX-fullName} | 浮動主人全名 | 此大寫X必須將其替換為數字，轉換為數字後才呼叫 |
 | {masterX-id} | 浮動主人ID | 此大寫X必須將其替換為數字，轉換為數字後才呼叫 |
 | {masterX-call} | 浮動主人稱呼 | 此大寫X必須將其替換為數字，轉換為數字後才呼叫 |
+| {masterX-relation} | 浮動主人的關係 | 此大寫X必須將其替換為數字，轉換為數字後才呼叫 |
 
 ## 訓練用
 
