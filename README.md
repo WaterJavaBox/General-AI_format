@@ -84,6 +84,7 @@
 | {message_userName} | 訊息傳送者的姓名 | |
 | {message_userID} | 訊息傳送者的姓名 | |
 | {message_content} | 訊息內容 | |
+| {message_userRelation} | 傳送者與機器人的關係 | |
 | {message_reference} | 回應的訊息內容 | |
 | {message_time} | 訊息傳送的時間 | 跟 {time} 不一樣 |
 
