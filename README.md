@@ -82,7 +82,7 @@
 | 替換詞 | 作用 | 說明 |
 |-----|-----|-----|
 | {message-userName} | 訊息傳送者的姓名 | |
-| {message-userID} | 訊息傳送者的姓名 | |
+| {message-userID} | 訊息傳送者的ID | |
 | {message-content} | 訊息內容 | |
 | {message-userRelation} | 傳送者與機器人的關係 | |
 | {message-reference} | 回應的訊息內容 | |
