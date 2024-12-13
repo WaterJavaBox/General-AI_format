@@ -14,6 +14,7 @@
 | {bot-nick} | 機器人暱稱 | 用於多個暱稱 |
 | {bot-fullName} | 機器人全稱 | |
 | {bot-presonality} | 機器人性格&個性 | 自訂義 或 [16型性格](https://www.16personalities.com/tw/%E6%80%A7%E6%A0%BC%E6%B8%AC%E8%A9%A6) |
+| {bot-hobby} | 機器人嗜好 |  |
 | {bot-birthday} | 機器人生日 | 生日，格式為yyyy-mm-dd |
 | {bot-gender} | 機器人性別 | |
 | {bot-height} | 機器人身高 | |
